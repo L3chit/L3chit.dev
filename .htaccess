@@ -1,2 +1,0 @@
-RewriteEngine On
-RewriteRule ^(.*)$ https://github.com/L3chit?tab=repositories/$1 [R=301,L]
